@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baraka208
+- 👋 Hi, I’m @Justine Baraka
 - 👀 I’m interested in website design and development
 - 🌱 I’m currently learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on anyone willing to work with me
